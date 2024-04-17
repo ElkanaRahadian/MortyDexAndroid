@@ -7,6 +7,7 @@ Morty Dex is an Android application that allows users to collect characters from
 
 # Tech
 Aplikasi Android Morty Dex ini mengimplementasikan :
+
 • API, SQLite, RecyclerView
 
 • Open Street Map, Picasso
