@@ -3,13 +3,17 @@
 </p>
 
 # MortyDex Android App
+Explore the Multiverse, Collect Them All!
+
+# Overview
 Morty Dex is an Android application that allows users to collect characters from Rick and Morty and locate Morty Headquarters.
 
 # Tech
-Aplikasi Android Morty Dex ini mengimplementasikan :
-
-• API, SQLite, RecyclerView
-
-• Open Street Map, Picasso
-
-• Volley, Themes
+The implemented tech in this app includes:
+- SQLite
+- Volley
+- Open Street Map
+- Picasso
+- API
+- RecyclerView
+- Themes
