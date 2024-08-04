@@ -2,7 +2,7 @@
   <img height="500" src="/MortyDex.PNG">
 </p>
 
-# Morty Dex Android App
+# Morty Dex Android Ap
 Explore the Multiverse, Collect Them All!
 
 # Overview
